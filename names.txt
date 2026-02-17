@@ -1,2 +1,4 @@
+role,NetID,LastName,FirstName
+
 boss,sacaceres,Caceres,Sofia
 employee,sbasnet3,Basnet,Soren
